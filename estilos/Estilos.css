@@ -1,6 +1,20 @@
 body
 {
-    color: blue;
-    text-align: center;
+    color:#333;
+    text-align: left;
+    font-size: 16px;
     font-family: "Arial";
+}
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #dddddd;
+}
+
+#container h1
+{
+    font-size: 20px;
 }
